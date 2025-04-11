@@ -109,14 +109,14 @@ Criação de testes, protótipos e interfaces, garantindo usabilidade e qualidad
 
 Planejamento e gerenciamento de tarefas utilizando metodologias ágeis.
 
-## Estatísticas do GitHub 
+## 📊 Estatísticas do GitHub 
 
 <div align="center">
   <a href="https://github.com/Nathsanfer">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nathsanfer&show_icons=true&count_private=true&hide_border=true&title_color=ffb703&icon_color=ffb703&text_color=ffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" />
 </div>
 
-## Minhas contribuições
+## 👍 Minhas contribuições
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nathsanfer&bg_color=000000&color=ffb703&line=ffb703&point=fb8500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
