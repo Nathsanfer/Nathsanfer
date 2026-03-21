@@ -94,11 +94,11 @@ Planejamento e gerenciamento de tarefas utilizando metodologias ágeis.
 
 <div align="center">
   <a href="https://github.com/Nathsanfer">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nathsanfer&show_icons=true&count_private=true&hide_border=true&title_color=ffb703&icon_color=ffb703&text_color=ffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nathsanfer&show_icons=true&count_private=true&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=161b22" alt="Nathalia Santos github stats" />
 </div>
  
 ## 🐍 Minhas Contribuições 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nathsanfer/Nathsanfer/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Nathsanfer/Nathsanfer/output/github-contribution-grid-snake.svg" width="100%">
 </p>
