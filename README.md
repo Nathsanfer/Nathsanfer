@@ -4,34 +4,15 @@
 
 ### Sobre
 
-Olá! Sou uma desenvolvedora Full Stack apaixonada por tecnologia e sempre em busca de novos aprendizados.
-Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI de Valinhos, onde venho aprimorando minhas habilidades técnicas e participando ativamente de projetos práticos.
+- Desenvolvedora Full Stack apaixonada por tecnologia e aprendizado contínuo.
+- Formada no Técnico em Desenvolvimento de Sistemas (SENAI Valinhos).
+- Cursando o ensino superior em Análise e Desenvolvimento de Sistemas (SENAI Roberto Mange).
 
-Tenho experiência no desenvolvimento web e mobile, com foco em criar soluções funcionais, responsivas e com uma boa experiência para o usuário.
-
-Meu objetivo é crescer cada vez mais na área, explorando novas tecnologias e contribuindo com projetos que façam a diferença.
-
-<a href="mailto:nathalia.ferreira7629@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="www.linkedin.com/in/nathsanfer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/nathalia.ferreira7629/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
+<a href="https://www.linkedin.com/in/nathsanfer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## 🧠 Softs Skills 
 
-- Comunicação clara e eficaz
-- Colaboração em equipe multidisciplinar
-- Capacidade de resolução de problemas
-- Gestão eficiente do tempo e prazos
-- Pensamento analítico e crítico
-- Atenção aos detalhes e à qualidade
-- Adaptabilidade a novos desafios e tecnologias
-- Criatividade na proposição de soluções
-- Comprometimento com resultados
-- Mentalidade de aprendizado contínuo
-- Proatividade na identificação e execução de tarefas
-- Maturidade emocional e profissionalismo
-- Autonomia na organização do próprio trabalho
-- Postura ética e responsabilidade
+Tenho comunicação clara, boa colaboração em equipe e foco em resolução de problemas. Sou organizada com prazos, analítica, proativa e adaptável a novos desafios, sempre com atenção à qualidade, postura ética e aprendizado contínuo.
 
 ## 💻 Hards Skills
 
@@ -115,9 +96,9 @@ Planejamento e gerenciamento de tarefas utilizando metodologias ágeis.
   <a href="https://github.com/Nathsanfer">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Nathsanfer&show_icons=true&count_private=true&hide_border=true&title_color=ffb703&icon_color=ffb703&text_color=ffff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" />
 </div>
-
-## 👍 Minhas contribuições
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nathsanfer&bg_color=000000&color=ffb703&line=ffb703&point=fb8500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  
+## 🐍 Minhas Contribuições 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nathsanfer/Nathsanfer/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
