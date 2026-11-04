@@ -15,10 +15,10 @@
 
 <br />
 
-<div align="center">
-  <table width="100%">
+<table align="center" width="100%">
     <tr>
-      <td align="center" bgcolor="#211a35" style="padding: 18px 16px;">
+      <td align="center" width="100%" bgcolor="#211a35">
+        <br />
         <strong>✦ &nbsp; CONHEÇA MEU TRABALHO &nbsp; ✦</strong>
         <br /><br />
         <em>Projetos, ideias e experiências que transformam código em soluções.</em>
@@ -28,10 +28,11 @@
         </a>
         <br /><br />
         <sub>nathsanfer-portfolio.vercel.app</sub>
+        <br />
+        <br />
       </td>
     </tr>
-  </table>
-</div>
+</table>
 
 <br />
 
