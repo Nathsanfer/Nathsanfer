@@ -1,191 +1,151 @@
-# <div align="center"> ✨ Nathalia Santos Ferreira ✨ </div>
-
-<div align="center">
-  
-  #### Desenvolvedora FullStack | Apaixonada por Tecnologia e Inovação
-  
-  <a href="https://www.linkedin.com/in/nathsanfer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Nathsanfer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  
-</div>
-
----
-
-## 👋 Sobre Mim
-
-<div align="justify">
-
-Sou uma desenvolvedora **Full Stack** apaixonada por tecnologia e em constante aprendizado. Formada como Técnica em Desenvolvimento de Sistemas pelo SENAI Valinhos, estou cursando Análise e Desenvolvimento de Sistemas no SENAI Roberto Mange.
-
-Com forte foco em **qualidade**, **ética profissional** e **inovação**, busco criar soluções web e mobile que façam diferença. Sou organizada, proativa e sempre adaptável aos novos desafios do mercado.
-
-</div>
-
----
-
-## 💡 Soft Skills
-
 <div align="center">
 
-| Comunicação | Colaboração | Resolução de Problemas | Organização |
-|:---:|:---:|:---:|:---:|
-| 🗣️ Clara e Direta | 👥 Trabalho em Equipe | 🧩 Analítica | 📋 Planejamento |
-| Escuta Ativa | Cooperação | Criativa | Proativa |
-| Feedback | Sinergia | Eficiente | Ética |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171321,50:6f5aa8,100:9b7fd4&height=180&section=header&text=Nathalia%20Santos%20Ferreira&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedora%20Full%20Stack%20%7C%20Tecnologia%20com%20prop%C3%B3sito&descAlignY=62&descSize=16" alt="Banner de apresentação" width="100%" />
+
+### Criando experiências digitais com código, curiosidade e propósito.
+
+<a href="https://www.linkedin.com/in/nathsanfer">
+  <img src="https://img.shields.io/badge/LinkedIn-9b7fd4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Nathsanfer">
+  <img src="https://img.shields.io/badge/GitHub-171321?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
----
-
-## 🛠️ Hard Skills
-
-### Desenvolvimento Front-end
+<br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <table width="100%">
+    <tr>
+      <td align="center" bgcolor="#211a35" style="padding: 18px 16px;">
+        <strong>✦ &nbsp; CONHEÇA MEU TRABALHO &nbsp; ✦</strong>
+        <br /><br />
+        <em>Projetos, ideias e experiências que transformam código em soluções.</em>
+        <br /><br />
+        <a href="https://nathsanfer-portfolio.vercel.app/">
+          <img src="https://img.shields.io/badge/Visitar%20meu%20portf%C3%B3lio-9b7fd4?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Visitar meu portfólio" />
+        </a>
+        <br /><br />
+        <sub>nathsanfer-portfolio.vercel.app</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
-
-> Criação de interfaces responsivas, modernas e com excelente experiência do usuário.
-
----
-
-### Desenvolvimento Mobile
+<br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
+    <picture>
+      <source srcset="https://gitcolors.vercel.app/api/svg?username=Nathsanfer&color=9b7fd4&theme=dark&mode=levels&preset=githubpurple&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://gitcolors.vercel.app/api/svg?username=Nathsanfer&color=9b7fd4&theme=light&mode=levels&preset=githubpurple&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" />
+      <img src="https://gitcolors.vercel.app/api/svg?username=Nathsanfer&color=9b7fd4&theme=light&mode=levels&preset=githubpurple&animate=true&emptyColor=filled" width="846" height="132" style="height:auto" alt="Visualização das contribuições no GitHub" />
+    </picture>
+  </a>
 </div>
 
-<br>
+<br />
 
-> Desenvolvimento de aplicativos nativos com foco em usabilidade e desempenho.
+## Sobre mim
 
----
+Desenvolvedora **Full Stack** em formação, apaixonada por criar produtos digitais que unem estética, funcionalidade e propósito. Gosto de entender o problema por trás de cada ideia e transformá-lo em experiências simples, intuitivas e bem construídas.
 
-### Desenvolvimento Back-end
+Sou formada como **Técnica em Desenvolvimento de Sistemas pelo SENAI Valinhos** e atualmente curso **Análise e Desenvolvimento de Sistemas no SENAI Roberto Mange**. Minha jornada é guiada por curiosidade, consistência e vontade de evoluir em cada projeto.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+
+> **Código com intenção. Interfaces com personalidade. Soluções que fazem sentido.**
+
 </div>
 
-<br>
+## O que faço
 
-> APIs REST robustas, lógica de negócios e integração com bancos de dados.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ Experiências digitais</h3>
+      Desenvolvo interfaces responsivas, acessíveis e visualmente cuidadas, com foco em uma experiência clara em qualquer dispositivo.
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ Aplicações completas</h3>
+      Construo soluções web e mobile, conectando front-end, back-end, APIs e dados em produtos consistentes.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✦ Organização técnica</h3>
+      Estruturo projetos pensando em legibilidade, manutenção, colaboração e evolução contínua.
+    </td>
+    <td width="50%" valign="top">
+      <h3>✦ Aprendizado constante</h3>
+      Exploro novas ferramentas e boas práticas para transformar desafios em oportunidades de crescimento.
+    </td>
+  </tr>
+</table>
 
----
+## Stack & ferramentas
 
-### Banco de Dados
+Tecnologias que fazem parte da minha jornada de desenvolvimento:
+
+### Interfaces & experiência
+
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</div>
+
+### Lógica, dados & mobile
+
+<div>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+</div>
+
+### Ferramentas & colaboração
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+</div>
+
+## Vamos conversar?
+
+Estou sempre aberta a conhecer pessoas, ideias e projetos que possam gerar impacto.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-005996?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+
+<a href="https://www.linkedin.com/in/nathsanfer">
+  <img src="https://img.shields.io/badge/Conecte--se_no_LinkedIn-9b7fd4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se no LinkedIn" />
+</a>
+<a href="https://github.com/Nathsanfer">
+  <img src="https://img.shields.io/badge/Explore_meus_projetos-6f5aa8?style=for-the-badge&logo=github&logoColor=white" alt="Explore meus projetos no GitHub" />
+</a>
+
+<br />
+<br />
+
+<i>Feito com código, café e vontade de evoluir.</i>
+
 </div>
 
-<br>
-
-> Modelagem e gerenciamento de dados com foco em performance e escalabilidade.
-
----
-
-### Versionamento de Código
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitHub_Desktop-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Desktop"/>
-</div>
-
-<br>
-
-> Controle de versão e colaboração em equipe de forma eficiente.
-
----
-
-### Ferramentas e Cloud
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</div>
-
-<br>
-
-> Ambiente de desenvolvimento e serviços em nuvem para apoio à criação e entrega de soluções.
-
----
-
-### Testes, Design e Prototipação
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Thunder_Client-6C6C6C?style=for-the-badge&logo=thunder-client&logoColor=white" alt="Thunder Client"/>
-  <img src="https://img.shields.io/badge/Expo_Go-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-</div>
-
-<br>
-
-> Prototipagem, testes e design que garantem qualidade e usabilidade.
-
----
-
-### Metodologias Ágeis e Organização
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-</div>
-
-<br>
-
-> Planejamento e gerenciamento de projetos com metodologias ágeis.
-
----
----
- 
-## 🐍 Minhas Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nathsanfer/Nathsanfer/output/github-contribution-grid-snake.svg" width="100%" alt="Contribuições GitHub">
-</div>
-
----
-
-## 📫 Contato & Redes
-
-<div align="center">
-  
-  **Vamos nos conectar!** 💬
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathsanfer)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nathsanfer)
-  
-</div>
-
----
-
-<div align="center">
-  
-  **Feito com ❤️ e muita dedicação**
-  
-  *Sempre aprendendo, sempre evoluindo!*
-  
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b7fd4,50:6f5aa8,100:171321&height=100&section=footer" alt="" width="100%" />
